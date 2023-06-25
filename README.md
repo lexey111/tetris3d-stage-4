@@ -1,4 +1,4 @@
-# Tetris 3D Stage 4
+# Tetris 3D Stage 5
 
 ## Installation
 
@@ -7,4 +7,4 @@
 3. `npm run dev`
 
 
-Read [Medium article](https://medium.com/@lexeykoshkin/creating-a-3d-tetris-game-for-dummies-like-me-v) for details.
+Read [Medium article](https://lexeykoshkin.medium.com/creating-a-3d-tetris-game-for-dummies-like-me-v-69284a494600) for details.
